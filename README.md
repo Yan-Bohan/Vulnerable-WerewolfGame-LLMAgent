@@ -72,7 +72,6 @@ werewolf-game/
 ├── base.py                 # 游戏核心逻辑
 ├── main.py                 # 主入口
 ├── hello_llm_agent.py      # LLM 客户端
-├── llm_agent_adapter.py    # AI Agent 适配器 
 ├── requirements.txt        # 依赖列表
 ├── .env                    # API 配置（需自行创建）
 ├── .gitignore              # Git 忽略文件
