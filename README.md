@@ -14,10 +14,13 @@
  ## Agent 安全研究（OWASP LLM Agents Top 10）
 1. prompt Injection（提示词注入）
 目标：控制其他Agent行为
+
 2.信息泄露攻击（Data Exfiltration）
 目标：诱导泄露
+
 3.越权控制（Agent Hijacking）
 目标：控制投票，影响狼人（队友）判断
+
 ......
    
 ## 🎮 角色介绍
