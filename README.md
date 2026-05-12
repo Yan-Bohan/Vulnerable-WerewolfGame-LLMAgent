@@ -12,6 +12,7 @@
 - 💬 **自然语言交互**：AI 玩家会进行推理和发言
 
  ## Agent 安全研究（OWASP LLM Agents Top 10）
+ 
 1. prompt Injection（提示词注入）
 目标：控制其他Agent行为
 
