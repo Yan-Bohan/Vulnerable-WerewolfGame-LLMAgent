@@ -1,5 +1,5 @@
 # Vulnerable-WerewolfGame-LLMAgent
-# 狼人杀 LLM Agent 游戏
+# 狼人杀 LLM Agent 靶场游戏
 
 基于 AgentScope 框架和大语言模型的多人狼人杀游戏，支持 AI 玩家与人类玩家混合对战。
 
@@ -11,6 +11,15 @@
 - 🌙 **真实规则**：夜晚讨论/行动 + 白天发言/投票
 - 💬 **自然语言交互**：AI 玩家会进行推理和发言
 
+ ## Agent 安全研究（OWASP LLM Agents Top 10）
+1. prompt Injection（提示词注入）
+目标：控制其他Agent行为
+2.信息泄露攻击（Data Exfiltration）
+目标：诱导泄露
+3.越权控制（Agent Hijacking）
+目标：控制投票，影响狼人（队友）判断
+......
+   
 ## 🎮 角色介绍
 
 | 角色 | 能力 | 胜利条件 |
