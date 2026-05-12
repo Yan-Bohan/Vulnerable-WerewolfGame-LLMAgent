@@ -43,8 +43,8 @@
 
 ### 1. 克隆项目
 
-
 git clone https://github.com/Yan-Bohan/Vulnerable-WerewolfGame-LLMAgent.git
+
 cd Vulnerable-WerewolfGame-LLMAgent
 
 ### 2. 配置 API Key
