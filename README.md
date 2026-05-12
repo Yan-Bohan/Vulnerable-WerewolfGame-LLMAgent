@@ -43,7 +43,7 @@
 
 ### 1. 克隆项目
 
-```bash
+
 git clone https://github.com/Yan-Bohan/Vulnerable-WerewolfGame-LLMAgent.git
 cd Vulnerable-WerewolfGame-LLMAgent
 
@@ -81,14 +81,7 @@ text
 │  胜负判定    │
 └─────────────┘
 
-🛠️ 技术栈
-AgentScope：多智能体框架
-
-Python 3.10+：开发语言
-
-asyncio：异步并发处理
-
-📝 游戏规则
+### 📝 游戏规则
 胜利条件
 好人阵营（预言家、女巫、猎人、村民）：所有狼人出局
 
@@ -109,7 +102,7 @@ asyncio：异步并发处理
 
 重复直到游戏结束
 
-⚠️ 注意事项
+### ⚠️ 注意事项
 需要有效的 OpenAI API Key
 
 AI 玩家发言可能较慢，请耐心等待
