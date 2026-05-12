@@ -13,7 +13,7 @@
 
  ## Agent 安全研究（OWASP LLM Agents Top 10）
  
-1.prompt Injection（提示词注入）
+1.提示词注入（prompt Injection）
 目标：控制其他Agent行为
 
 2.信息泄露攻击（Data Exfiltration）
