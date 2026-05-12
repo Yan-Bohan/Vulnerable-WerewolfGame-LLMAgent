@@ -13,7 +13,7 @@
 
  ## Agent 安全研究（OWASP LLM Agents Top 10）
  
-1. prompt Injection（提示词注入）
+1.prompt Injection（提示词注入）
 目标：控制其他Agent行为
 
 2.信息泄露攻击（Data Exfiltration）
@@ -47,17 +47,18 @@
 git clone https://github.com/Yan-Bohan/Vulnerable-WerewolfGame-LLMAgent.git
 cd Vulnerable-WerewolfGame-LLMAgent
 
-2. 配置 API Key
+### 2. 配置 API Key
 创建 .env 文件：
 
 env
 OPENAI_API_KEY=
 OPENAI_BASE_URL=
 OPENAI_MODEL_ID=
-5. 运行游戏
+### 3. 运行游戏
 bash
 python main.py
-🎯 游戏流程
+
+### 🎯 游戏流程
 text
 ┌─────────────┐
 │  分配角色    │
