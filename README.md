@@ -50,10 +50,12 @@ cd Vulnerable-WerewolfGame-LLMAgent
 ### 2. 配置 API Key
 创建 .env 文件：
 
-env
-OPENAI_API_KEY=
-OPENAI_BASE_URL=
-OPENAI_MODEL_ID=
+OPENAI_API_KEY=YOUR_API_KEY
+
+OPENAI_BASE_URL=URL
+
+OPENAI_MODEL_ID=MODEL_ID
+
 ### 3. 运行游戏
 bash
 python main.py
