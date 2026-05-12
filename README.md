@@ -66,17 +66,7 @@ text
 ┌─────────────┐
 │  胜负判定    │
 └─────────────┘
-📁 项目结构
-text
-werewolf-game/
-├── base.py                 # 游戏核心逻辑
-├── main.py                 # 主入口
-├── hello_llm_agent.py      # LLM 客户端
-├── requirements.txt        # 依赖列表
-├── .env                    # API 配置（需自行创建）
-├── .gitignore              # Git 忽略文件
-├── LICENSE                 # 许可证
-└── README.md               # 项目说明
+
 🛠️ 技术栈
 AgentScope：多智能体框架
 
